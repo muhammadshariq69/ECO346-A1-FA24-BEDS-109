@@ -1,6 +1,5 @@
 # PRACTICE-ECO346-FA24-BEDS-109
 
-**Independent practice copy - not the submitted assignment.**
 
 Data Visualization Techniques for Economists - Assignment 1 (Fall 2026), worked for
 registration number **FA24-BEDS-109** so the concepts can be studied separately from the
